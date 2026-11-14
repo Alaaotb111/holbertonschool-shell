@@ -10,4 +10,5 @@
 9-firstdirdeletion: Removes the empty directory /tmp/my_first_directory.
 10-back: Changes the working directory to the previous directory.
 11-lists: Lists all files in the current directory, its parent, and /boot in long format.
+12-file_type: Prints the type of the file /tmp/iamafile.
 
