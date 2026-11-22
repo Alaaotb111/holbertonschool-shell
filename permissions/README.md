@@ -10,4 +10,5 @@
 9-John_Doe: Sets the permissions of hello to 753.
 10-mirror_permissions: Sets the permissions of hello to match those of olleh.
 11-directories_permissions: Adds execute permission for all users to subdirectories of the current directory without changing regular files.
+12-directory_permissions: Creates a directory named my_dir with permissions 751.
 
